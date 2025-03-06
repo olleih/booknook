@@ -1,3 +1,5 @@
+This page is done using OnePage themewagon template. 
+
 Thanks for downloading this template!
 
 Template Name: OnePage
